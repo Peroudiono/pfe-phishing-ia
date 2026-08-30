@@ -1,22 +1,16 @@
 campaign_id,email,time,message,details
-3,,2026-08-29T08:03:35.67256049Z,Campaign Created,
-3,aminetazi@example.com,2026-08-29T08:03:35.877375174Z,Email Sent,
-3,saraamrani@example.com,2026-08-29T08:03:36.104074572Z,Email Sent,
-3,youssefbenali@example.com,2026-08-29T08:03:36.274072209Z,Email Sent,
-3,fatima.test@local.com,2026-08-29T08:03:36.406600189Z,Email Sent,
-3,karim.test@local.com,2026-08-29T08:03:36.529291982Z,Email Sent,
-3,lina.test@local.com,2026-08-29T08:03:36.656321454Z,Email Sent,
-3,nadia.test@local.com,2026-08-29T08:03:36.790848044Z,Email Sent,
-3,reda.test@local.com,2026-08-29T08:03:36.871679612Z,Email Sent,
-3,saraamrani@example.com,2026-08-29T08:05:15.853024065Z,Clicked Link,"{""payload"":{""rid"":[""FxzIOPo""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,saraamrani@example.com,2026-08-29T08:05:30.814536712Z,Submitted Data,"{""payload"":{""password"":[""ppert674""],""rid"":[""FxzIOPo""],""username"":[""ggrte@het.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,youssefbenali@example.com,2026-08-29T08:05:38.719481055Z,Clicked Link,"{""payload"":{""rid"":[""IHjiJce""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,youssefbenali@example.com,2026-08-29T08:05:51.219373877Z,Submitted Data,"{""payload"":{""password"":[""tryiu""],""rid"":[""IHjiJce""],""username"":[""tyer@gh.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,fatima.test@local.com,2026-08-29T08:52:33.350616248Z,Clicked Link,"{""payload"":{""rid"":[""ihEnegY""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,karim.test@local.com,2026-08-29T08:54:00.154682831Z,Clicked Link,"{""payload"":{""rid"":[""xlwYnKI""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,lina.test@local.com,2026-08-29T08:56:21.105187646Z,Clicked Link,"{""payload"":{""rid"":[""oh4Pyq5""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,lina.test@local.com,2026-08-29T08:56:50.941405291Z,Submitted Data,"{""payload"":{""password"":[""linabiizz123""],""rid"":[""oh4Pyq5""],""username"":[""linabzz@gmail.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,nadia.test@local.com,2026-08-29T08:58:37.491978113Z,Clicked Link,"{""payload"":{""rid"":[""GPA0gWO""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,reda.test@local.com,2026-08-29T09:03:13.16015776Z,Clicked Link,"{""payload"":{""rid"":[""c7qoNkz""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,aminetazi@example.com,2026-08-29T09:09:25.416216519Z,Clicked Link,"{""payload"":{""rid"":[""UPoaj17""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
-3,aminetazi@example.com,2026-08-29T09:09:56.323938339Z,Submitted Data,"{""payload"":{""password"":[""aminetaziuphf1234""],""rid"":[""UPoaj17""],""username"":[""aminetazi@uphf.fr""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,,2026-08-30T05:58:37.960698456Z,Campaign Created,
+4,aminetazi@example.com,2026-08-30T05:58:38.306363418Z,Email Sent,
+4,saraamrani@example.com,2026-08-30T05:58:38.73624337Z,Email Sent,
+4,youssefbenali@example.com,2026-08-30T05:58:38.910922553Z,Email Sent,
+4,fatima.test@local.com,2026-08-30T05:58:39.063942374Z,Email Sent,
+4,karim.test@local.com,2026-08-30T05:58:39.205371325Z,Email Sent,
+4,lina.test@local.com,2026-08-30T05:58:39.318619249Z,Email Sent,
+4,nadia.test@local.com,2026-08-30T05:58:39.568187857Z,Email Sent,
+4,reda.test@local.com,2026-08-30T05:58:39.979334685Z,Email Sent,
+4,saraamrani@example.com,2026-08-30T05:59:28.118150197Z,Clicked Link,"{""payload"":{""rid"":[""zyvAl50""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,saraamrani@example.com,2026-08-30T05:59:55.888804306Z,Submitted Data,"{""payload"":{""password"":[""sarasaratre""],""rid"":[""zyvAl50""],""username"":[""saraamrani@hst.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,nadia.test@local.com,2026-08-30T06:01:08.143598148Z,Clicked Link,"{""payload"":{""rid"":[""2TEy4wZ""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,nadia.test@local.com,2026-08-30T06:01:24.198622874Z,Submitted Data,"{""payload"":{""password"":[""nadiaTESRT""],""rid"":[""2TEy4wZ""],""username"":[""nadia.test@local.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,reda.test@local.com,2026-08-30T06:01:45.932920086Z,Clicked Link,"{""payload"":{""rid"":[""yJfukxa""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+4,reda.test@local.com,2026-08-30T06:01:58.563005267Z,Submitted Data,"{""payload"":{""password"":[""redaTest456?""],""rid"":[""yJfukxa""],""username"":[""reda.test@local.com""]},""browser"":{""address"":""10.0.2.15"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"

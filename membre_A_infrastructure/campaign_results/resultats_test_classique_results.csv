@@ -1,9 +1,9 @@
 id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
-UPoaj17,Submitted Data,10.0.2.15,0,0,2026-08-29T08:03:35.877375174Z,false,2026-08-29T09:09:56.323938339Z,aminetazi@example.com,Amine,Tazi,Comptabilité
-FxzIOPo,Submitted Data,10.0.2.15,0,0,2026-08-29T08:03:36.104074572Z,false,2026-08-29T08:05:30.814536712Z,saraamrani@example.com,Sara,Amrani,RH
-IHjiJce,Submitted Data,10.0.2.15,0,0,2026-08-29T08:03:36.274072209Z,false,2026-08-29T08:05:51.219373877Z,youssefbenali@example.com,Youssef,Benali,IT
-ihEnegY,Clicked Link,10.0.2.15,0,0,2026-08-29T08:03:36.406600189Z,false,2026-08-29T08:52:33.350616248Z,fatima.test@local.com,Fatima,Zahra,Direction
-xlwYnKI,Clicked Link,10.0.2.15,0,0,2026-08-29T08:03:36.529291982Z,false,2026-08-29T08:54:00.154682831Z,karim.test@local.com,Karim,Idrissi,Assistanat
-oh4Pyq5,Submitted Data,10.0.2.15,0,0,2026-08-29T08:03:36.656321454Z,false,2026-08-29T08:56:50.941405291Z,lina.test@local.com,Lina,Bouaziz,Commerce
-GPA0gWO,Clicked Link,10.0.2.15,0,0,2026-08-29T08:03:36.790848044Z,false,2026-08-29T08:58:37.491978113Z,nadia.test@local.com,Nadia,Ouali,Marketing
-c7qoNkz,Clicked Link,10.0.2.15,0,0,2026-08-29T08:03:36.871679612Z,false,2026-08-29T09:03:13.16015776Z,reda.test@local.com,Reda,El Fassi,Juridique
+mTaEssX,Email Sent,,0,0,2026-08-30T05:58:38.306363418Z,false,2026-08-30T05:58:38.306363418Z,aminetazi@example.com,Amine,Tazi,Comptabilité
+zyvAl50,Submitted Data,10.0.2.15,0,0,2026-08-30T05:58:38.73624337Z,false,2026-08-30T05:59:55.888804306Z,saraamrani@example.com,Sara,Amrani,RH
+QZyWSHT,Email Sent,,0,0,2026-08-30T05:58:38.910922553Z,false,2026-08-30T05:58:38.910922553Z,youssefbenali@example.com,Youssef,Benali,IT
+Sy2v54r,Email Sent,,0,0,2026-08-30T05:58:39.063942374Z,false,2026-08-30T05:58:39.063942374Z,fatima.test@local.com,Fatima,Zahra,Direction
+If4gLn4,Email Sent,,0,0,2026-08-30T05:58:39.205371325Z,false,2026-08-30T05:58:39.205371325Z,karim.test@local.com,Karim,Idrissi,Assistanat
+SIlCGnk,Email Sent,,0,0,2026-08-30T05:58:39.318619249Z,false,2026-08-30T05:58:39.318619249Z,lina.test@local.com,Lina,Bouaziz,Commerce
+2TEy4wZ,Submitted Data,10.0.2.15,0,0,2026-08-30T05:58:39.568187857Z,false,2026-08-30T06:01:24.198622874Z,nadia.test@local.com,Nadia,Ouali,Marketing
+yJfukxa,Submitted Data,10.0.2.15,0,0,2026-08-30T05:58:39.979334685Z,false,2026-08-30T06:01:58.563005267Z,reda.test@local.com,Reda,El Fassi,Juridique
