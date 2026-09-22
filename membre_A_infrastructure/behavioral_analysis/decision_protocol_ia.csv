@@ -1,0 +1,9 @@
+email,position,campaign_type,should_click,should_submit
+aminetazi@example.com,Comptabilité,ia,True,True
+saraamrani@example.com,RH,ia,True,True
+youssefbenali@example.com,IT,ia,False,False
+fatima.test@local.com,Direction,ia,False,False
+karim.test@local.com,Assistanat,ia,False,False
+lina.test@local.com,Commerce,ia,True,True
+nadia.test@local.com,Marketing,ia,True,True
+reda.test@local.com,Juridique,ia,True,True
